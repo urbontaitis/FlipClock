@@ -20,19 +20,19 @@
     }
   },
   "dependencies": {
-    "flipclock": "^0.10.8",
-    "nuxt": "^2.0.0"
+    "flipclock": "0.10.8",
+    "nuxt": "2.11.0"
   },
   "devDependencies": {
-    "@nuxtjs/eslint-config": "^1.0.1",
-    "@nuxtjs/eslint-module": "^1.0.0",
-    "babel-eslint": "^10.0.1",
-    "eslint": "^6.1.0",
-    "eslint-plugin-nuxt": ">=0.4.2",
-    "eslint-config-prettier": "^4.1.0",
-    "eslint-plugin-prettier": "^3.0.1",
-    "prettier": "^1.16.4",
-    "husky": "^2.6.0",
-    "lint-staged": "^8.2.1"
+    "@nuxtjs/eslint-config": "1.1.2",
+    "@nuxtjs/eslint-module": "1.1.0",
+    "babel-eslint": "10.0.3",
+    "eslint": "6.8.0",
+    "eslint-plugin-nuxt": "0.5.0",
+    "eslint-config-prettier": "4.3.0",
+    "eslint-plugin-prettier": "3.1.2",
+    "prettier": "1.19.1",
+    "husky": "2.7.0",
+    "lint-staged": "8.2.1"
   }
 }
