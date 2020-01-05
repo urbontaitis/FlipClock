@@ -7,7 +7,7 @@
       <h2 class="subtitle">
         Flip clock and pomodoro technique
       </h2>
-      <flip-counter minutes="25" />
+      <flip-counter :minutes="25" />
     </div>
   </div>
 </template>
