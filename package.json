@@ -20,6 +20,7 @@
     }
   },
   "dependencies": {
+    "flipclock": "^0.10.8",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
