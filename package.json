@@ -20,7 +20,7 @@
     }
   },
   "dependencies": {
-    "date-fns": "^2.8.1",
+    "date-fns": "2.8.1",
     "nuxt": "2.11.0",
     "vue2-flip-countdown": "0.9.3"
   },
