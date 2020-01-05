@@ -16,6 +16,12 @@ export default {
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
+  pwa: {
+    manifest: {
+      name: 'Timer',
+      lang: 'en'
+    }
+  },
   /*
    ** Customize the progress-bar color
    */
@@ -38,7 +44,7 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: [],
+  modules: ['@nuxtjs/pwa'],
   /*
    ** Build configuration
    */
